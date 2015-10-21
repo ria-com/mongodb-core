@@ -30,7 +30,7 @@
     "co": "4.5.4"
   },
   "optionalDependencies": {
-    "kerberos": "~0.0"
+    "kerberos": "git://github.com/christkv/kerberos#master"
   },
   "author": "Christian Kvalheim",
   "license": "Apache 2.0",
